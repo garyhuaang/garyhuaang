@@ -1,5 +1,5 @@
 🙋‍♂️ Hey! My name is Gary and welcome to my github! I started my programming journey about ~4 years ago.
-🏫 I graduated from the California Polytechnic University of Pomona with my BS in Computer Science 🧠.
+🏫 I graduated from the California Polytechnic University of Pomona with my BS in Computer Science.
 - Front end technologies: JavaScript, NodeJS, ReactJS, SASS
 - Back end technologies: work in progress 😓
 - I’m currently solidifying my front end background and really looking forward to working the entire web stack!
