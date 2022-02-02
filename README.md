@@ -1,4 +1,4 @@
-🙋‍♂️ Hey! My name is Gary and welcome to my github! I started my programming journey about ~4 years ago.
+🙋‍♂️ Hey! My name is Gary and welcome to my github! I started my programming journey about in 2018.
 🏫 I graduated from the California Polytechnic University of Pomona with my BS in Computer Science.
 - Front end technologies: JavaScript, NodeJS, ReactJS, SASS
 - Back end technologies: work in progress 😓
