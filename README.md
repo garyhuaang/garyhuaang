@@ -4,7 +4,7 @@
 - Back end technologies: work in progress 😓
 - I’m currently solidifying my front end background and really looking forward to working the entire web stack!
 - I’m looking to collaborate on anything if help is needed!
-- Reach me at: garyhuaang@gmail.com
+- Please contact me at: garyhuaang@gmail.com
 
 <!---
 garyhuaang/garyhuaang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
