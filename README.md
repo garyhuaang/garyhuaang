@@ -1,9 +1,19 @@
-🙋‍♂️ Hey! My name is Gary and welcome to my github! I started my programming journey about in 2018 and 
-graduated from the California Polytechnic University of Pomona with my BS in Computer Science 🏫.
-- Front end technologies: JavaScript, NodeJS, ReactJS, SASS
-- I’m currently solidifying my front end background and really looking forward to working the entire web stack!
-- I’m looking to collaborate on anything if help is needed!
-- Please contact me at: garyhuaang@gmail.com
+# Gary Huang
+
+## Professional Summary
+I'm a front-end developer with a strong foundation in modern web technologies. After beginning my programming journey in 2018, I earned my BS in Computer Science from California Polytechnic University, Pomona.
+
+## Technical Expertise
+- **Front-End Technologies:** JavaScript, TypeScript, React, Node.js, SCSS/SASS
+- **Development Tools:** Git, Webpack, Vite, Storybook
+- **Testing:** Jest, React Testing Library, Cypress
+
+## Current Focus
+I'm currently expanding my front-end expertise while developing skills across the full web stack. I'm particularly interested in performance optimization, component architecture, and modern JavaScript frameworks.
+
+## Contact
+- Email: garyhuaang@gmail.com
+- LinkedIn: https://www.linkedin.com/in/garyhuaang/
 
 <!---
 garyhuaang/garyhuaang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
