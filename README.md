@@ -4,8 +4,8 @@
 I'm a front-end developer with a strong foundation in modern web technologies. After beginning my programming journey in 2018, I earned my BS in Computer Science from California Polytechnic University, Pomona.
 
 ## Technical Expertise
-- **Front-End Technologies:** JavaScript, TypeScript, React, Node.js, SCSS/SASS
-- **Development Tools:** Git, Webpack, Vite, Storybook
+- **Front-End Technologies:** JavaScript, TypeScript, React, Node.js, SCSS/SASS, TailwindCSS
+- **Development Tools:** Git, Webpack, Vite, Storybook, Redux, Atom
 - **Testing:** Jest, React Testing Library, Cypress
 
 ## Current Focus
