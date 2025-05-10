@@ -5,7 +5,7 @@ I'm a front-end developer with a strong foundation in modern web technologies. A
 
 ## Technical Expertise
 - **Front-End Technologies:** JavaScript, TypeScript, React, Node.js, SCSS/SASS, TailwindCSS
-- **Frameworks/Libraries: React, Redux Toolkit, React Hook Form, Zod, NX
+- **Framework & Libraries:** React, Redux Toolkit, React Hook Form, Zod, NX
 - **Development Tools:** Git, Webpack, Vite, Storybook, Redux, Atom
 - **Testing:** Jest, React Testing Library, Cypress
 
