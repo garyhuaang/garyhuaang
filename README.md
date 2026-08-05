@@ -1,7 +1,10 @@
 # Gary Huang
 
 ## Professional Summary
-I'm a front-end developer with a strong foundation in modern web technologies. After beginning my programming journey in 2018, I earned my BS in Computer Science from California Polytechnic University, Pomona.
+Frontend engineer with 4 years of experience in design systems and shared component architecture across fintech and large-scale
+retail. Built and owned a 20+ component TypeScript library used by 5+ product teams at Walmart Global Tech, and now work with
+the shared design-system team at JPMorgan Chase on accessible, reusable UI for Chase MyCar. Also own the product’s QA and test
+infrastructure, with hands-on experience in performance optimization, production support, and tooling that other engineers adopt.
 
 ## Technical Expertise
 - **Front-End Technologies:** JavaScript, TypeScript, React, Node.js, SCSS/SASS, TailwindCSS
